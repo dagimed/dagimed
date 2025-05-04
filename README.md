@@ -1,77 +1,85 @@
-# 👋 Hello, I'm Dagim Medhanit
+# 👋 Hi, I'm Dagim Medhanit
 
 🎓 Computer Engineering Student at the University of Dubai  
-💻 Aspiring Software Engineer | Backend Development Enthusiast  
-🚀 ALX Back-End Web Development Programme Participant  
-🌐 Contributor to Vision Aid: AI-Powered Assistive Technology for the Visually Impaired  
-📘 Exploring Web Development through CS50 & The Odin Project  
+💻 Aspiring Software Engineer | Backend & Systems Enthusiast  
+🚀 ALX Software Engineering Program — Backend Track  
+🌐 Passionate about building accessible tech and real-world solutions  
+📚 Active learner via CS50 & The Odin Project  
 
 ---
 
 ## 🔭 Current Projects
 
-- **Vision Aid**: Contributing to an AI-powered assistive technology designed to help visually impaired individuals navigate outdoor environments safely. Utilizing the YOLOv8 object detection model, Vision Aid identifies and classifies various objects, providing real-time auditory feedback to enhance situational awareness. :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}
+- 🔹 **Vision Aid**  
+  Helping build an AI-powered assistive tool to support visually impaired individuals.  
+  Using YOLOv8 for object detection and delivering real-time audio cues for safer mobility.  
+  [🔗 View on GitHub](https://github.com/SmirtiParajuli/Vision-Aid)
 
-- **ALX Back-End Web Development**: :contentReference[oaicite:5]{index=5}:contentReference[oaicite:7]{index=7}
+- 🔹 **ALX Back-End Portfolio**  
+  Learning Python, Flask, MySQL, and scalable backend infrastructure.  
+  Developing a solid foundation in systems design and performance.
 
-- **The Odin Project**: :contentReference[oaicite:9]{index=9}:contentReference[oaicite:11]{index=11}
+- 🔹 **The Odin Project + CS50 Journey**  
+  Enhancing my full-stack skills while mastering how the web works.  
+  [🔗 See Odin Progress](https://github.com/dagimed?tab=repositories&q=odin&type=all)
 
 ---
 
 ## 🌱 Currently Learning
 
-- :contentReference[oaicite:13]{index=13}
-- :contentReference[oaicite:16]{index=16}
-- :contentReference[oaicite:19]{index=19}
-- :contentReference[oaicite:22]{index=22}:contentReference[oaicite:24]{index=24}
+- Advanced Python and Flask  
+- API development and backend systems  
+- SQL and data modeling  
+- Deployment, testing, and DevOps basics  
+- UI/UX principles for accessible design  
 
 ---
 
-## 👯 Looking to Collaborate On
+## 👯 I’m Looking to Collaborate On
 
-- :contentReference[oaicite:26]{index=26}
-- :contentReference[oaicite:29]{index=29}
-- :contentReference[oaicite:32]{index=32}:contentReference[oaicite:34]{index=34}
+- Open-source projects focused on accessibility or education  
+- Python- or Flask-based backends  
+- Full-stack applications with real impact  
 
 ---
 
-## 🤔 Seeking Help With
+## 🤔 I’m Looking for Help With
 
-- :contentReference[oaicite:36]{index=36}
-- :contentReference[oaicite:39]{index=39}
-- :contentReference[oaicite:42]{index=42}:contentReference[oaicite:44]{index=44}
+- Scaling backend systems  
+- Integrating machine learning into web apps  
+- Becoming an efficient full-stack developer before I graduate in 2 years  
 
 ---
 
 ## 💬 Ask Me About
 
-- :contentReference[oaicite:46]{index=46}
-- :contentReference[oaicite:49]{index=49}
-- :contentReference[oaicite:52]{index=52}:contentReference[oaicite:54]{index=54}
+- Backend development and the ALX learning path  
+- What I’ve learned in CS50 or Odin  
+- My work on Vision Aid and assistive tech  
 
 ---
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/dagim-medhanit/)
-- [GitHub](https://github.com/dagimed)
-
+- LinkedIn: [Dagim Medhanit](https://www.linkedin.com/in/dagim-medhanit/)  
+- GitHub: [@dagimed](https://github.com/dagimed)  
+- Email: [Dagim Medhanit](dagimedhanit@gmail.com)
 ---
 
 ## ⚡ Fun Fact
 
-:contentReference[oaicite:56]{index=56}:contentReference[oaicite:58]{index=58}
+I'm driven by **visual learning** and thrive when I can connect concepts through diagrams, real-life problems, or simulations. I believe software has the power to improve accessibility and change lives — one project at a time.
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Dagim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dagimed&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagimed&layout=compact&theme=radical)
 
 ---
 
-> 🚀 *“My vision is to become a professional software engineer by graduation—building impactful projects, collaborating on open source, and continuously improving through real-world practice.”*
-
+> ✨ **Vision:** Become a professional software engineer before graduation — building inclusive, impactful software that empowers people and solves real-world problems.
 
 <!--
 **dagimed/dagimed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
