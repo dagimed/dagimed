@@ -72,7 +72,7 @@ I'm driven by **visual learning** and thrive when I can connect concepts through
 
 ---
 
-> ✨ **Vision:** Become a professional software engineer before graduation — building inclusive, impactful software that empowers people and solves real-world problems.
+> ✨ **Vision:** Become a professional software engineer before graduation, building inclusive, impactful software that empowers people and solves real-world problems.
 
 <!--
 **dagimed/dagimed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
