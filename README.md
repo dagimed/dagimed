@@ -63,7 +63,7 @@
 
 - 📧 Email: [dagimedhanit@gmail.com](mailto:dagimedhanit@gmail.com)  
 - 🔗 LinkedIn: [Dagim Medhanit](https://www.linkedin.com/in/dagim-medhanit/)  
-- 🐦 Twitter: [@dagimed6](https://x.com/dagimed6))  
+- 🐦 Twitter: [@dagimed6](https://x.com/dagimed6)  
 ---
 
 ## ⚡ Fun Fact
