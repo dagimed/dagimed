@@ -13,7 +13,7 @@
 - 🔹 **Vision Aid**  
   Helping build an AI-powered assistive tool to support visually impaired individuals.  
   Using YOLOv8 for object detection and delivering real-time audio cues for safer mobility.  
-  [🔗 View on GitHub](https://github.com/SmirtiParajuli/Vision-Aid)
+  [🔗 View on GitHub](https://github.com/VISUAL-AID))
 
 - 🔹 **ALX Back-End Portfolio**  
   Learning Python, Flask, MySQL, and scalable backend infrastructure.  
@@ -61,21 +61,14 @@
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Dagim Medhanit](https://www.linkedin.com/in/dagim-medhanit/)  
-- GitHub: [@dagimed](https://github.com/dagimed)  
-- Email: [Dagim Medhanit](dagimedhanit@gmail.com)
+- 📧 Email: [dagimedhanit@gmail.com](mailto:dagimedhanit@gmail.com)  
+- 🔗 LinkedIn: [Dagim Medhanit](https://www.linkedin.com/in/dagim-medhanit/)  
+- 🐦 Twitter: [@dagimed6](https://x.com/dagimed6))  
 ---
 
 ## ⚡ Fun Fact
 
 I'm driven by **visual learning** and thrive when I can connect concepts through diagrams, real-life problems, or simulations. I believe software has the power to improve accessibility and change lives — one project at a time.
-
----
-
-## 📊 GitHub Stats
-
-![Dagim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dagimed&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagimed&layout=compact&theme=radical)
 
 ---
 
